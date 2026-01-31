@@ -1,0 +1,9 @@
+For Ubuntu/debian
+```sudo apt update
+sudo apt install -y ansible```
+
+RHEL / CentOS / Rocky / Alma
+
+```sudo dnf install -y epel-release
+sudo dnf install -y ansible```
+
