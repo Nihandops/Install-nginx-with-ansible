@@ -14,5 +14,6 @@ sudo apt update
 sudo apt install -y ansible
 ```
 ### For RHEL / CentOS / Rocky / Alma
-sudo dnf install -y epel-release
-sudo dnf install -y ansible```
+```sudo dnf install -y epel-release
+sudo dnf install -y ansible
+```
